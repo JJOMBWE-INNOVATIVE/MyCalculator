@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MyCalculator" parent="Base.Theme.MyCalculator" />
+    <style name="Theme.MyOwnTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <!--android:status_Bar_Color-->
+        <item name="colorPrimaryDark">#078EFA</item>
+        <!--android:app_Bar_Color-->
+        <item name="colorPrimary">#F31C0C</item>
+        <item name="colorAccent">@color/my_color</item>
+
+    </style>
+
+</resources>
