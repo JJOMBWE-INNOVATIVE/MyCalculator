@@ -13,6 +13,7 @@
         <!--android:app_Bar_Color-->
         <item name="colorPrimary">#F31C0C</item>
         <item name="colorAccent">@color/my_color</item>
+        <item name="colorOnBackground">@color/back_ground_color</item>
 
     </style>
 

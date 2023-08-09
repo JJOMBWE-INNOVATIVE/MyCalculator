@@ -8,6 +8,7 @@
     <color name="app_Bar_Color">#FF5722</color>
     <color name="status_Bar_Color_dark">#8BFA0A</color>
     <color name="app_Bar_Color_dark">#FFE716</color>
+    <color name="back_ground_color">#F63C02</color>
 
 
 </resources>
